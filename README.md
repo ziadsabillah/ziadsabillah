@@ -23,7 +23,7 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsabillah&hide_border=true" />
 </details>
-
+<!-- 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
@@ -58,7 +58,7 @@
     </tbody>
   </table>
   <br />
-</details>
+</details> -->
  
 <details>	
   <br />
