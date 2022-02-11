@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Ziad Sabillah!](https://github.com/ziadsabillah/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-sabillah-75b7b618a/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ziadsabillah)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/ziadsabillah) -->
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ziadsabillah.ziadsabillah&style=flat-square&color=0088cc)
 
