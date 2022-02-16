@@ -15,12 +15,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziadsabillah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsabillah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadsabillah&hide_border=true" />
-</details>
 <!-- 
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
@@ -58,7 +56,7 @@
   <br />
 </details> -->
  
-<details>	
+	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -68,7 +66,6 @@
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <br />
 	</ul>	
-</details>
 
 #
 
